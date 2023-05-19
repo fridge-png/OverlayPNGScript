@@ -11,7 +11,7 @@ from enum import Enum
 # path of the directory that contains your images 
 imageDir = "SampleImages/"
 # path of the directory that you want your final image to be saved in 
-saveDir = "SavedIMages/"
+saveDir = "SavedImages/"
 # path of the directory that you want your cropped images to be saved in (if save is set to true) 
 croppedDir = "CroppedImages/"
 # what you want your final image to be called
