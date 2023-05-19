@@ -5,6 +5,15 @@ This script layers png images on top of each other and creates a final layered p
 The order of the image must be appended to the end of its name like so: SampleImage_1.png.  
 An image with a lower order will appear behind an image with a higher order.  
 
+
+## Original Images
+![Image not found](/SampleImages/Circle_1.png?raw=true "")
+![Image not found](/SampleImages/Circle_2.png?raw=true "")
+![Image not found](/SampleImages/Circle_3.png?raw=true "")
+
+## FInal Image
+![Image not found](/SavedImages/FinalImage.png?raw=true "")
+
 ## Changing parameters
 Make sure to change the parameters at the top in the code.  
 **imageDir**: Path of the directory that contains your images.  
@@ -18,3 +27,4 @@ Make sure to change the parameters at the top in the code.
 
 ## How Cropping Offset Works
 ![Image not found](/Screenshots/CropOffsetScreenshot.png?raw=true "How cropping offset works")
+
