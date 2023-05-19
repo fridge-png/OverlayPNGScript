@@ -17,9 +17,9 @@ croppedDir = "CroppedImages/"
 # what you want your final image to be called
 finalImageName = "FinalImage"
 # x,y dimensions of your images (all images will be cropped to this size)
-imageDim = [900,900]
+imageDim = [1000,1000]
 # x,y offset of your cropped images (the coordinates of the topleft corner of your image)
-offsetCrop = [50,100]
+offsetCrop = [0,0]
 # set to true if you want your cropped images to be saved in the croppedDir set above
 saveCroppedImages = True
 #========================================
